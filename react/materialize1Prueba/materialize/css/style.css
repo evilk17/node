@@ -1,0 +1,47 @@
+
+
+.sidenav-trigger{
+  color:#25a69a;
+
+}
+
+
+.parallax-container{
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.parallax-container .section{
+  width: 100%;
+
+}
+@media only screen and (max-with: 992px){
+  .parallax-container -section{
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section{
+    top: 10%;
+
+  }
+}
+
+@media only screen and (max-with: 992px){
+
+  #index-banner .section{
+    top: 0%;
+
+  }
+}
+
+.icon-block{
+  padding: 0 15px;
+}
+.icon-block material-icon{
+  font-size: inherit;
+}
+footer.page-footer{
+  margin:0;
+}

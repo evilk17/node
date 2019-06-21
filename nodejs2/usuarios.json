@@ -1,0 +1,21 @@
+{
+"usuario1":{
+  "nombre":"gerardo",
+  "contrasenia":"1234",
+  "profesion" : "Estudiante",
+  "id":1
+},
+"usuario1":{
+  "nombre":"Bruno",
+  "contrasenia":"brun ",
+  "profesion" : "Estudiante",
+  "id":2
+},
+"usuario1":{
+  "nombre":"ceci",
+  "contrasenia":"cesos",
+  "profesion" : "Estudiante",
+  "id":3
+}
+
+}

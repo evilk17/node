@@ -1,0 +1,4 @@
+npm install --save express
+npm install --save multer
+npm install --save pug
+npm install --save mongoose
